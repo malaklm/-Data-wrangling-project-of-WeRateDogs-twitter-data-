@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="header.png" width="400" height="400" />
-</p>
-
 # Data wrangling project of WeRateDogs twitter data 
 
 ## Introduction
